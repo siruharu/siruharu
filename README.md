@@ -1,5 +1,5 @@
 <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 고양이 두마리 집사 개발자 최해혁입니다. </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Siru Haru </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 스스로 도태되지 않기 위해 최선을 다하는 개발자가 되는 것이 목표!<br></li></li>내가 아는 것을 알려주는 것을 좋아합니다. </div> 
     </div>
     <div align= "center">
